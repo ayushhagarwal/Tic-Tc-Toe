@@ -1,8 +1,13 @@
-# Tic-Tc-Toe
+### Tic-Tc-Toe
 This is a very basic tic-tac-toe Python game developed using python and has applications of basic python loops keywords ,functions.
-I have put up a jupyter notebook with the code
-the code has each and every function sepaerately before being put together to get the game code.
+### Tech Stack
+* Python
+#### IDE Used-
+* Jupyter Notebooks
+#### Implementation
+The repo has each and every function sepaerately before being put together to get the final game code up and running.
+<br>
 I will be obliged if you go through the code use it and recommend me if any changes or modification which can be done to make the game better.
-This is my first project on any language;
-Also this is not completely a raw project I have made this with the help of my course on udemy( COMPLETE PYTHON BOOTCAMP).
+##### Acknowledgement
+I have made this with the help of my course on udemy( COMPLETE PYTHON BOOTCAMP).
 
